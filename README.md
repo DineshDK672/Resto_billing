@@ -1,6 +1,6 @@
 # Resto_billing
 A simple java back-end program for restaurant billing and menu managing.
-It contains three classes:
+/nIt contains three classes:
   Driver: Contains the home page and driver program.
   Menu : Contains methods for managing and viewing the menu.
   Bill : Methods for creating a new bill and viewing an existing bill are defined.
