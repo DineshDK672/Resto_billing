@@ -7,3 +7,6 @@ It contains three classes:
 The application uses file handling for storing data instead of a database and SQL.
 The application can Create a new bill and view an existing bill.
 It can also view the current Menu and edit the same.
+
+**To run application**
+Create a new project in your IDE and copy paste the programs and save the files with the class names as the file names.
