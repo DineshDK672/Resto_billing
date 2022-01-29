@@ -1,5 +1,5 @@
 # Resto_billing
-A simple java back-end program for restaurant billing and menu managing.
+A simple java back-end program for restaurant billing and menu managing. Developed in a time span of alomost 15 hours. 
 
 It contains three classes:
   Driver: Contains the home page and driver program.
